@@ -1,0 +1,3 @@
+[submodule "aleth"]
+	path = aleth
+	url = https://gitee.com/xdarcy96/aleth.git
